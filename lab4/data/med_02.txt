@@ -1,0 +1,11 @@
+Infectious Diseases and Modern Antibiotic Therapy
+
+Infectious diseases are caused by pathogenic microorganisms such as bacteria, viruses, fungi, and parasites. They remain a leading cause of death in many parts of the world, especially in developing countries. The discovery of antibiotics in the twentieth century revolutionized the treatment of bacterial infections and saved millions of lives.
+
+The first antibiotic, penicillin, was discovered by Alexander Fleming in 1928 and became widely available in the 1940s. Since then, many new classes of antibiotics have been developed, including cephalosporins, macrolides, tetracyclines, and fluoroquinolones. Each class targets different bacterial structures or metabolic pathways.
+
+However, the widespread use of antibiotics has led to the emergence of resistant bacterial strains. Antibiotic resistance is now recognized as one of the most serious threats to global health. Infections caused by resistant bacteria are harder to treat, require longer hospital stays, and are associated with higher mortality.
+
+To slow down the development of resistance, doctors should prescribe antibiotics only when they are truly needed. Viral infections such as the common cold or influenza do not respond to antibiotics. Patients should complete the full course of treatment even if they feel better after a few days. In hospitals, strict infection control measures help prevent the spread of resistant strains.
+
+New approaches to fighting infections include phage therapy, antimicrobial peptides, and monoclonal antibodies. These methods may become important alternatives to traditional antibiotics in the coming decades. Public health campaigns and international cooperation are essential to preserve the effectiveness of existing drugs and to develop new ones.
